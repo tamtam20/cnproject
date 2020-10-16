@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+
+* {
+    background-color: pink;
+}
+
+h1 {
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+
+.container {
+    display: flex;
+}
